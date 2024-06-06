@@ -12,8 +12,8 @@ int max(int x, int y)
 }
 
 /**
- * binary_tree_height - Computes the height of a binary tree
- * @tree: the tree to compute height for
+ * binary_tree_height - Measures the height of a binary tree
+ * @tree: the tree to measure the height
  * Return: the height of the tree
  */
 size_t binary_tree_height(const binary_tree_t *tree)
